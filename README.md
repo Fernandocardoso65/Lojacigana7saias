@@ -14,18 +14,18 @@ A **Loja Cigana 7 Saias** é especializada em produtos esotéricos e itens de es
 
 Para expandir sua atuação e aumentar o alcance, criamos uma **loja virtual completa** com foco em estética mística, funcionalidade e posicionamento orgânico no Google.
 
-📌 Site oficial: 
+ Site oficial: 
 
 (https://www.lojacigana7saias.com.br/)
 
-🛠️ Tecnologias Utilizadas
+ Tecnologias Utilizadas
 
 - **Loja Integrada**: plataforma de e-commerce escolhida pela sua praticidade e recursos nativos de vendas online.
   
 - **Hostinger**: gerenciamento de domínio e hospedagem do site.
-- 
+  
 - **HTML e JavaScript**: personalizações no visual e nas funcionalidades da loja.
-- 
+
 - **Google Business Profile (Google Meu Negócio)**: otimização de presença local e SEO.
   
 - **Canva**: criação de imagens promocionais e banners esotéricos personalizados.
@@ -50,15 +50,6 @@ Para expandir sua atuação e aumentar o alcance, criamos uma **loja virtual com
 
 - Consolidação da marca como referência no segmento esotérico regional
 
-
-## Contato Comercial
-
-**Loja Cigana 7 Saias**  
-(https://www.lojacigana7saias.com.br)
-
- WhatsApp: [Clique aqui para falar](https://wa.me/5515997940520)  
-
-
-Este projeto é um exemplo de como plataformas acessíveis como a **Loja Integrada**, com boas práticas de personalização e SEO, podem elevar negócios locais a novos patamares.
+ Este projeto é um exemplo de como plataformas acessíveis como a **Loja Integrada**, com boas práticas de personalização e SEO, podem elevar negócios locais a novos patamares.
 
 Sinta-se à vontade para contribuir, enviar sugestões ou iniciar um projeto semelhante!
