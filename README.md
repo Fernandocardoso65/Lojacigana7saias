@@ -25,8 +25,6 @@ Para expandir sua atuação e aumentar o alcance, criamos uma **loja virtual com
 - **Hostinger**: gerenciamento de domínio e hospedagem do site.
   
 - **HTML e JavaScript**: personalizações no visual e nas funcionalidades da loja.
-
-- **Google Business Profile (Google Meu Negócio)**: otimização de presença local e SEO.
   
 - **Canva**: criação de imagens promocionais e banners esotéricos personalizados.
 
@@ -40,13 +38,13 @@ Para expandir sua atuação e aumentar o alcance, criamos uma **loja virtual com
 
 - Personalizações visuais em HTML e scripts em JavaScript
   
-- Destaque no **Google Empresas (Google Meu Negócio)**, aparecendo nos **primeiros resultados de busca**
+- Destaque aparecendo nos **primeiros resultados de busca**
 
 ## Resultados Reais
 
 - Aumento nas visitas ao site e interações via WhatsApp
   
-- Cliente aparecendo em **primeiro lugar no Google** em buscas locais como "loja esotérica em Sorocaba"
+- Loja aparecendo em **primeiro lugar no Google** em buscas locais como "loja esotérica em Sorocaba"
 
 - Consolidação da marca como referência no segmento esotérico regional
 
